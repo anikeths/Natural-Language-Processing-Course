@@ -1,0 +1,10 @@
+General course learnings – Natural Language Processing Course
+	Natural Language ToolKit and its features.    
+	Text Preprocessing: Tokenization, Stemming, Lemmatization
+	Named Entity Recognition and Parts-of-Speech Tagging using SpaCy
+	Document Similarity like cosine similarity and other distance measures like Euclidean Distance, Manhattan distance, Hamming distance etc.
+	Techniques to obtain text embeddings like GenSim, Word2Vec, Sentence2Vec etc.
+	BERT - Bidirectional Encoded Representation from Transformers, Pre-Trained Models, Generative Pre-Trained Transformers
+	Question - Answering System using Transformers		
+	Topic Modeling and t SNE techniques
+	Sentiment Analysis/Scoring using VADER, AWS Comprehend, SpaCy.
